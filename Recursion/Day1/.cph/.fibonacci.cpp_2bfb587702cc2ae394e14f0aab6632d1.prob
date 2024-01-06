@@ -1,0 +1,1 @@
+{"name":"Local: fibonacci","url":"c:\\Users\\VIKASH\\OneDrive\\Desktop\\28-Days-1200\\Recursion\\Day1\\fibonacci.cpp","tests":[{"id":1704121213101,"input":"5","output":"0 1 1 2 3 5 8 13 21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\VIKASH\\OneDrive\\Desktop\\28-Days-1200\\Recursion\\Day1\\fibonacci.cpp","group":"local","local":true}
